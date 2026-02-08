@@ -1,8 +1,13 @@
-<!-- Animated Header -->
-<h1 align="center">Hi 👋, I'm Atul Tele</h1>
+<!-- ====== PREMIUM HEADER ====== -->
+
+<h1 align="center">Atul Tele</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Cloud+Enthusiast;Kubernetes+Lover;Automation+Specialist;Building+Scalable+Infrastructure+🚀" />
+  <b>DevOps Engineer • Cloud Infrastructure • Kubernetes • Automation</b>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&color=00F7FF&center=true&vCenter=true&width=700&lines=Designing+Scalable+Cloud+Infrastructure;Building+Production-Ready+CI%2FCD+Pipelines;Kubernetes+%7C+Terraform+%7C+AWS;Automating+Everything+⚡" />
 </p>
 
 <p align="center">
@@ -11,81 +16,84 @@
 
 ---
 
-## 🌟 About Me  
+# 🚀 About Me
 
-🚀 DevOps Engineer passionate about cloud-native infrastructure  
-☁️ Working with AWS, Kubernetes & CI/CD pipelines  
-🔁 Love automating everything  
-📈 Always learning cutting-edge DevOps tools  
-🎯 Goal: 35+ LPA DevOps Engineer  
+I design and automate **production-grade cloud infrastructure**.
+
+- ☁️ Architecting scalable systems on AWS & Azure  
+- ⚙️ Building secure CI/CD pipelines with GitHub Actions & Jenkins  
+- 🐳 Deploying microservices using Docker & Kubernetes  
+- 🌍 Implementing Infrastructure as Code (Terraform / Ansible)  
+- 📊 Monitoring distributed systems with Prometheus & Grafana  
+
+> I focus on reliability, scalability, automation, and performance.
 
 ---
 
-## 🚀 Tech Stack  
+# 🛠 Core Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,ansible,jenkins,githubactions,prometheus,grafana,python,bash,git,linux" />
-
+  <img src="https://skillicons.dev/icons?i=aws,azure,kubernetes,docker,terraform,ansible,jenkins,githubactions,prometheus,grafana,python,bash,linux,git" />
 </p>
 
 ---
 
-## 🛠️ Featured Projects  
+# 🧠 Architecture-Driven Projects
 
-🔹 **EKS Auto-Deploy Pipeline**  
-→ GitOps CI/CD using ArgoCD + Helm  
+## 🔹 EKS GitOps Auto Deployment Platform
+- Designed EKS cluster with Terraform
+- Implemented ArgoCD GitOps workflow
+- Helm-based application deployments
+- Production-grade CI/CD automation
 
-🔹 **3-Tier Microservices App**  
-→ Docker + Kubernetes + Load Balancer  
+## 🔹 3-Tier Microservices Architecture
+- Containerized backend services
+- Kubernetes orchestration + Load Balancing
+- Horizontal scaling & rolling deployments
+- Infrastructure provisioning via Terraform
 
-🔹 **Kubernetes Monitoring Stack**  
-→ Prometheus + Grafana dashboards  
+## 🔹 Kubernetes Monitoring Stack
+- Prometheus metrics collection
+- Grafana dashboards (CPU, Memory, Node health)
+- Alerting configuration
+- Production observability setup
 
-🔹 **Terraform AWS Infra Automation**  
-→ VPC, ASG, ALB, IAM  
+## 🔹 AWS Infrastructure Automation
+- VPC, ALB, ASG, IAM
+- Auto-scaling compute layer
+- Secure networking & IAM policies
+- Modular Terraform structure
 
-👉 Explore More:  
-💻 https://github.com/AtulTele  
+👉 Portfolio: **https://github.com/AtulTele**
 
 ---
 
-## 📊 GitHub Stats  
+# 📊 Engineering Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AtulTele&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtulTele&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AtulTele&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtulTele&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
 
-## 🔥 GitHub Streak  
+# 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AtulTele&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AtulTele&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake Animation  
+# 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github.com/AtulTele/AtulTele/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
-> (To enable snake animation, I can guide you step-by-step)
-
----
-
-## 📈 Activity Graph  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AtulTele&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AtulTele&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies  
+# 🏆 GitHub Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AtulTele&theme=algolia&no-frame=true&margin-w=10" />
@@ -93,7 +101,7 @@
 
 ---
 
-## 🌍 Connect With Me  
+# 🌍 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/atul-tele-421674196/">
@@ -106,12 +114,12 @@
 
 ---
 
-## ⚡ DevOps Quote  
+# ⚡ Engineering Philosophy
 
-> "First automate, then optimize." 🚀  
+> "Infrastructure should be automated, scalable, observable, and secure by default."
 
 ---
 
 <p align="center">
-  ⭐ Always Building | Always Learning | Always Automating ⭐
+  🚀 Always Learning • Always Building • Always Automating
 </p>
