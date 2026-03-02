@@ -33,7 +33,7 @@ I design and automate **production-grade cloud infrastructure**.
 # 🛠 Core Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,kubernetes,docker,terraform,ansible,jenkins,githubactions,prometheus,grafana,python,bash,linux,git" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,docker,terraform,ansible,jenkins,githubactions,prometheus,grafana,python,bash,linux,git" />
 </p>
 
 ---
